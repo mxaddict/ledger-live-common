@@ -2305,8 +2305,8 @@ const cryptocurrenciesById: { [name: string]: CryptoCurrency } = {
         magnitude: 8
       },
       {
-        name: "satoshi",
-        code: "sat",
+        name: "navoshi",
+        code: "navoshi",
         magnitude: 0
       }
     ],
